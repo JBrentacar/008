@@ -1,10 +1,9 @@
 {
-  "hosting": {
-    "public": ".",
-    "ignore": [
-      "firebase.json",
-      "**/.*",
-      "**/node_modules/**"
-    ]
-  }
+  "name": "my-static-site",
+  "version": "1.0.0",
+  "description": "A simple static site deployed on Firebase Hosting",
+  "main": "index.html",
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
 }
